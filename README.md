@@ -1,10 +1,5 @@
 # Photo Database for "Romantikus Képek"
 
-
-## Description
-
--
-
 ## Authors
 
 DestroyedOfficial
