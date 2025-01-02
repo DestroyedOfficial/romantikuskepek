@@ -1,4 +1,4 @@
-# Photo based Database for my fun website called "Romantikus Képek"
+# Photo Database for "Romantikus Képek"
 
 
 ## Description
